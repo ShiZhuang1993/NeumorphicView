@@ -7,7 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.github.sshadkany.android_neumorphic_test_app.R;
-import com.github.sshadkany.shapes.PolygonView;
+import com.zhuang.neumorphic.custom.PolygonView;
 
 public class MainActivity extends AppCompatActivity {
 

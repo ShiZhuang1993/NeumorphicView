@@ -6,8 +6,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
-import com.github.sshadkany.RectButton;
 import com.github.sshadkany.android_neumorphic_test_app.R;
+import com.zhuang.neumorphic.directuse.RectButton;
 
 public class RectButtonActivity extends AppCompatActivity {
 

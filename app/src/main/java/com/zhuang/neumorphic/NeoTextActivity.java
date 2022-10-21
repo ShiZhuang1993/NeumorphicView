@@ -3,10 +3,9 @@ package com.zhuang.neumorphic;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.view.View;
 
 import com.github.sshadkany.android_neumorphic_test_app.R;
-import com.github.sshadkany.neoText;
+import com.zhuang.neumorphic.directuse.neoText;
 
 public class NeoTextActivity extends AppCompatActivity {
 

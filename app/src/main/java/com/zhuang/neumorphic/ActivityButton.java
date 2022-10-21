@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 
 import com.github.sshadkany.android_neumorphic_test_app.R;
-import com.github.sshadkany.neo;
+import com.zhuang.neumorphic.directuse.neo;
 
 public class ActivityButton extends AppCompatActivity {
 
